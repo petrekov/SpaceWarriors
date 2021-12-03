@@ -1,0 +1,14 @@
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.exe
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.deps.json
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.runtimeconfig.json
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.runtimeconfig.dev.json
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.dll
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\bin\Debug\netcoreapp3.1\SpaceWarriors.pdb
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.csproj.AssemblyReference.cache
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.AssemblyInfoInputs.cache
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.AssemblyInfo.cs
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.csproj.CoreCompileInputs.cache
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.dll
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.pdb
+C:\DEV\Kubik\SpaceWarriors\SpaceWarriors\obj\Debug\netcoreapp3.1\SpaceWarriors.genruntimeconfig.cache
